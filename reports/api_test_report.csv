@@ -1,0 +1,11 @@
+test_name,category,status,duration_ms,details
+User status code,Positive,PASS,1402.28,
+User JSON format,Positive,PASS,1022.27,
+User required fields,Validation,PASS,970.52,
+User address and company,Validation,PASS,673.64,
+Missing user returns 404,Negative,PASS,947.54,
+Posts status code,Positive,PASS,680.08,
+Posts response is a list,Validation,PASS,825.48,
+Post required fields,Validation,PASS,677.48,
+Post IDs are unique,Validation,PASS,677.28,
+Response time is measured,Performance,PASS,819.9,
